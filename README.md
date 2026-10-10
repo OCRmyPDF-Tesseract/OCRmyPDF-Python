@@ -6,7 +6,7 @@ ocrmypdf command line is how you run a single file or a folder. ocrmypdf docker 
 
 The pages never have to leave the computer that runs the job. That is the point of a local OCR pass.
 
-![Banner Placeholder](api/image1)
+![Banner Placeholder](api/image1.png)
 
 A household archive, a lab notebook, or a stack of contracts is the scale it is built for. It is not a hosted converter, and it is not a layout designer. It reads pixels and writes a PDF.
 
@@ -42,7 +42,7 @@ What you do not get is a new layout, a translation, or a summary. If a column wa
 | Sidecar | A plain text file written next to the PDF |
 | hOCR | A markup file that records where each word sat |
 
-![Editor Placeholder](api/image2)
+![Editor Placeholder](api/image2.png)
 
 ## Motivation
 
